@@ -62,7 +62,7 @@ contract VotingContract {
         emit Voted(msg.sender, proposalID, vote);
     }
 
-    function totalVotes(uint proposalID) public view {
-
+    function totalVotes(uint proposalID) public view returns(uint) {
+        return (proposals[proposalID].allVotesCount);
     }
 }
