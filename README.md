@@ -3,8 +3,10 @@
 
 ---
 ## More about Solidity
+
 More information about the syntax of the language can be found at the presentation link. 
 [Click Me](https://docs.google.com/presentation/d/1X8kHhVcB-7D6O9ZisTvY2BNwvAWyh-4h73Wp0SzNeXc/edit#slide=id.p)
+
 ---
 
 ## Setup
